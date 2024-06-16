@@ -4,8 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background: radial-gradient(
-    circle at 24.1% 68.8%,
+  background: linear-gradient(
     rgb(50, 50, 50) 0%,
     rgb(0, 0, 0) 99.4%
   );
